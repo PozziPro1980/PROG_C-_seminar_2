@@ -20,4 +20,4 @@ else if ( num == 6 || num ==7 )
 else
 {
      Console.WriteLine("Этот день не выходной");
-}
+} 
